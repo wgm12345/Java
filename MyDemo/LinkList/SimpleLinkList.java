@@ -1,5 +1,7 @@
 package MyDemo.LinkList;
 
+import javafx.css.Style;
+
 class SimpleLinkList {
     private Node head;
     private int size;
@@ -69,7 +71,7 @@ class SimpleLinkList {
         Node cur1 = list1.head.next;
         Node cur2 = list2.head.next;
 
-        int size = listA.size() + listB.size();
+        int size = list1.size() + list2.size();
 
         Node head = new Node();
         Node cur = head;
@@ -112,13 +114,14 @@ class SimpleLinkList {
         SimpleLinkList list1 = new SimpleLinkList();
         SimpleLinkList list2 = new SimpleLinkList();
 
-        for (int i = 10; i >= 2; i -= 2) {
+        for (int i = 2; i < 11; i += 2) {
             list1.insertNode(i);
             list2.insertNode(i - 1);
         }
-        assert list1.toString().equals("2->4->6->8->10");
-        assert list2.toString().equals("1->3->5->7->9");
-        assert SimpleLinkList.merge(list1, list2).toString().equals("1->2->3->4->5->6->7->8->9->10");
+        System.out.println(list1.toString().equals("2->4->6->8->10")); 
+        System.out.println(list2.toString().equals("1->3->5->7->9"));
+        System.out.println(SimpleLinkList.merge(list1, list2).toString().equals("1->2->3->4->5->6->7->8->9->10"));
+    
     }
 }
 
