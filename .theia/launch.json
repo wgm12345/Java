@@ -1,0 +1,1070 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AnyBaseToAnyBase<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.AnyBaseToAnyBase",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AnyBaseToDecimal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.AnyBaseToDecimal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AnytoAny<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.AnytoAny",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BinaryToDecimal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.BinaryToDecimal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BinaryToHexadecimal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.BinaryToHexadecimal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BinaryToOctal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.BinaryToOctal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DecimalToAnyBase<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.DecimalToAnyBase",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DecimalToBinary<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.DecimalToBinary",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DecimalToHexaDecimal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.DecimalToHexaDecimal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DecimalToOctal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.DecimalToOctal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HexToOct<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.HexToOct",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HexaDecimalToBinary<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.HexaDecimalToBinary",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HexaDecimalToDecimal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.HexaDecimalToDecimal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-IntegerToRoman<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.IntegerToRoman",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-OctalToDecimal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.OctalToDecimal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-OctalToHexadecimal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.OctalToHexadecimal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RomanToInteger<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Conversions.RomanToInteger",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Bag<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Bags.Bag",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CircularBuffer<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Buffers.CircularBuffer",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DynamicArray<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.DynamicArray.DynamicArray",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BellmanFord<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Graphs.BellmanFord",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ConnectedComponent<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Graphs.ConnectedComponent",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Cycles<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Graphs.Cycles",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FloydWarshall<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Graphs.FloydWarshall",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Graphs<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Graphs.Graphs",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MatrixGraphs<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Graphs.MatrixGraphs",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PrimMST<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Graphs.PrimMST",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Main<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.HashMap.Hashing.Main",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MinPriorityQueue<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Heaps.MinPriorityQueue",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Link<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Lists.Link",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MergeSortedArrayList<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Lists.MergeSortedArrayList",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SinglyLinkedList<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Lists.SinglyLinkedList",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GenericArrayListQueue<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Queues.GenericArrayListQueue",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LinkedQueue<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Queues.LinkedQueue",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PriorityQueues<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Queues.PriorityQueues",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Queues<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Queues.Queues",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BalancedBrackets<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Stacks.BalancedBrackets",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DecimalToAnyUsingStack<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Stacks.DecimalToAnyUsingStack",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-NodeStack<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Stacks.NodeStack",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-StackArray<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Stacks.StackArray",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-StackArrayList<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Stacks.StackArrayList",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-StackOfLinkedList<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Stacks.StackOfLinkedList",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AVLTree<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Trees.AVLTree",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PrintTopViewofTree<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Trees.PrintTopViewofTree",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TreeTraversal<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Trees.TreeTraversal",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TrieImp<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DataStructures.Trees.TrieImp",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CoinChange<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.CoinChange",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-EditDistance<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.EditDistance",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-EggDropping<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.EggDropping",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Fibonacci<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.Fibonacci",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FordFulkerson<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.FordFulkerson",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-KadaneAlgorithm<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.KadaneAlgorithm",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Knapsack<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.Knapsack",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LevenshteinDistance<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LevenshteinDistance",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LongestCommonSubsequence<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LongestCommonSubsequence",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LongestIncreasingSubsequence<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LongestIncreasingSubsequence",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LongestValidParentheses<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.LongestValidParentheses",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MatrixChainMultiplication<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.MatrixChainMultiplication",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RodCutting<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.RodCutting",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AbsoluteMax<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.AbsoluteMax",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AbsoluteMin<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.AbsoluteMin",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AbsoluteValue<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.AbsoluteValue",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AmicableNumber<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.AmicableNumber",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Factorial<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.Factorial",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FactorialRecursion<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.FactorialRecursion",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FibonacciNumber<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.FibonacciNumber",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FindMax<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.FindMax",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FindMaxRecursion<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.FindMaxRecursion",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FindMin<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.FindMin",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FindMinRecursion<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.FindMinRecursion",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GCD<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.GCD",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GCDRecursion<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.GCDRecursion",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MaxValue<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.MaxValue",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MinValue<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.MinValue",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PalindromeNumber<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.PalindromeNumber",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ParseInteger<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.ParseInteger",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PerfectNumber<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.PerfectNumber",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Pow<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.Pow",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PowRecursion<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.PowRecursion",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PrimeCheck<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.PrimeCheck",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PrimeFactorization<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.PrimeFactorization",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-VampireNumber<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Maths.VampireNumber",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MinimizingLateness<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "MinimizingLateness.MinimizingLateness",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MedianOfRunningArray<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Misc.MedianOfRunningArray",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PalindromePrime<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Misc.PalindromePrime",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-heap_sort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Misc.heap_sort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SimpleLinkList<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "MyDemo.LinkList.SimpleLinkList",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Armstrong<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.Armstrong",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BrianKernighanAlgorithm<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.BrianKernighanAlgorithm",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CRC32<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.CRC32",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CountChar<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.CountChar",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CountWords<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.CountWords",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Dijkstra<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.Dijkstra",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-EulersFunction<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.EulersFunction",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FibToN<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.FibToN",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-FloydTriangle<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.FloydTriangle",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GuassLegendre<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.GuassLegendre",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-InsertDeleteInArray<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.InsertDeleteInArray",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-KMP<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.KMP",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Krishnamurthy<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.Krishnamurthy",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LinearCongruentialGenerator<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.LinearCongruentialGenerator",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LowestBasePalindrome<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.LowestBasePalindrome",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PasswordGen<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.PasswordGen",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PerlinNoise<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.PerlinNoise",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PowerOfTwoOrNot<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.PowerOfTwoOrNot",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-QueueUsingTwoStacks<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.QueueUsingTwoStacks",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RabinKarp<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.RabinKarp",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RemoveDuplicateFromString<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.RemoveDuplicateFromString",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ReturnSubsequence<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.ReturnSubsequence",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ReverseStackUsingRecursion<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.ReverseStackUsingRecursion",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ReverseString<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.ReverseString",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RootPrecision<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.RootPrecision",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SJF<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.SJF",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SieveOfEratosthenes<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.SieveOfEratosthenes",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SkylineProblem<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.SkylineProblem",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-StackPostfixNotation<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.StackPostfixNotation",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-StringMatchFiniteAutomata<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.StringMatchFiniteAutomata",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TopKWords<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.TopKWords",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TowerOfHanoi<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Others.TowerOfHanoi",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BinarySearch<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Searches.BinarySearch",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-InterpolationSearch<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Searches.InterpolationSearch",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-IterativeBinarySearch<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Searches.IterativeBinarySearch",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-IterativeTernarySearch<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Searches.IterativeTernarySearch",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-JumpSearch<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Searches.JumpSearch",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LinearSearch<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Searches.LinearSearch",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SaddlebackSearch<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Searches.SaddlebackSearch",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TernarySearch<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Searches.TernarySearch",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BitonicSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.BitonicSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BogoSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.BogoSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BubbleSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.BubbleSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CocktailShakerSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.CocktailShakerSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CombSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.CombSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CountingSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.CountingSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CycleSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.CycleSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-GnomeSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.GnomeSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HeapSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.HeapSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-InsertionSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.InsertionSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MergeSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.MergeSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PancakeSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.PancakeSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-QuickSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.QuickSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RadixSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.RadixSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SelectionSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.SelectionSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ShellSort<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "Sorts.ShellSort",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AES<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "ciphers.AES",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AESEncryption<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "ciphers.AESEncryption",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Caesar<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "ciphers.Caesar",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ColumnarTranspositionCipher<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "ciphers.ColumnarTranspositionCipher",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RSA<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "ciphers.RSA",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-SimpleSubstitutionCipher<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "ciphers.SimpleSubstitutionCipher",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Vigenere<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "ciphers.Vigenere",
+      "projectName": "Java_ac3f996b"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ClosestPair<Java_ac3f996b>",
+      "request": "launch",
+      "mainClass": "divideconquer.ClosestPair",
+      "projectName": "Java_ac3f996b"
+    }
+  ]
+}
